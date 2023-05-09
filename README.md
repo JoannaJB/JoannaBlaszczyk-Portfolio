@@ -2,16 +2,16 @@
 
 ## O mnie
 
-Cześć :wave:, mam na imię Joanna Błaszczyk. Posiadam wykształcenie chemiczne :test_tube:, natomiast przebranżowiłam się i od ponad roku pracuję jako tester oprogramowania.
+Cześć :wave:, mam na imię Joanna Błaszczyk. Posiadam wykształcenie chemiczne :test_tube:, natomiast przebranżowiłam się i od ponad roku pracuję jako **tester oprogramowania**.
 Moje doświadczenie zaczęło się od pracy jako tester manualny, ale od pół roku dokształcam się jako **tester automatyzujący w języku Python** :snake: za pomocą Selenium.
 
-W mojej pracy jako tester staram się być **dokładna, skrupulatna i kreatywna**. Lubię wyzwania i szukam sposobów na ulepszanie procesów testowania. 
-Uważam, że automatyzacja testów jest kluczowa dla osiągnięcia wysokiej jakości oprogramowania, dlatego też poświęcam dużo czasu na **naukę automatyzacji**.
+W pracy jako tester staram się być **dokładna, skrupulatna i kreatywna**. Lubię wyzwania i szukam sposobów na ulepszanie procesów testowania. 
+Uważam, że automatyzacja jest kluczowa dla osiągnięcia wysokiej jakości oprogramowania, dlatego też poświęcam dużo czasu na **naukę automatyzacji**.
 
 Jako osoba z wykształceniem chemicznym, posiadam **umiejętności analityczne**, które pomagają mi w analizowaniu problemów i wdrożeniu efektywnych rozwiązań testowych.
-W swojej pracy staram się być otwarta na nowe idee i podejścia, które mogą pomóc w ulepszaniu jakości oprogramowania i szybszym znajdowaniu błędów :bug:. **Dążę do ciągłego rozwoju** i poszerzania swoich umiejętności w dziedzinie testowania oprogramowania oraz w dziedzinach pokrewnych. 
+W swojej pracy staram się być otwarta na nowe idee i podejścia, które mogą pomóc w ulepszaniu jakości oprogramowania i szybszym znajdowaniu błędów :bug:. **Dążę do ciągłego rozwoju** i poszerzania swoich umiejętności w dziedzinie testowania oraz w dziedzinach pokrewnych. 
 
-W wolnym czasie lubię czytać o nowinkach w dziedzinie testowania i trendach w branży IT.
+W wolnym czasie lubię czytać o nowinkach ze świata testów i trendach w branży IT.
 Aby przewietrzyć głowę, poza pracą interesuję się aktywnością fizyczną i zdrowym stylem życia. Lubię uprawiać różne formy sportu, szczególnie chodzić na siłownię :weight_lifting_woman:, pływać :swimming_woman: i jeździć na rowerze wśród natury :biking_woman:.
 Uważam, że regularne ćwiczenia fizyczne wpływają pozytywnie na moje samopoczucie i motywację do pracy.
 
@@ -22,9 +22,9 @@ Uważam, że regularne ćwiczenia fizyczne wpływają pozytywnie na moje samopoc
  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)\
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)\
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)\
+ ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)\
  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)\
  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)\
- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)\
   Robot Framework\
   BrowserStack
 
