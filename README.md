@@ -15,7 +15,7 @@ W wolnym czasie lubię czytać o nowinkach ze świata testów i trendach w bran�
 Aby przewietrzyć głowę, poza pracą interesuję się aktywnością fizyczną i zdrowym stylem życia. Lubię uprawiać różne formy sportu, szczególnie chodzić na siłownię :weight_lifting_woman:, pływać :swimming_woman: i jeździć na rowerze wśród natury :biking_woman:.
 Uważam, że regularne ćwiczenia fizyczne wpływają pozytywnie na moje samopoczucie i motywację do pracy.
 
-## Narzędzia :hammer_and_wrench:
+## :hammer_and_wrench: Narzędzia
 
  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)\
  ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)\
@@ -28,7 +28,7 @@ Uważam, że regularne ćwiczenia fizyczne wpływają pozytywnie na moje samopoc
   Robot Framework\
   BrowserStack
 
-## Umiejętności :gem:
+## :gem: Umiejętności 
 ✅ Język programowania **Python**\
 ✅ Testy automatyczne e2e za pomocą **Selenium** i Robot Framework :robot:\
 ✅ Tworzenie **przypadków testowych i raportu z testów**\
@@ -37,7 +37,7 @@ Uważam, że regularne ćwiczenia fizyczne wpływają pozytywnie na moje samopoc
 ✅ znajomość **SQL**
 
 
-## Kursy :medal_sports:
+## :medal_sports: Kursy 
 
 ✅ Testy Automatyczne + Python (*Dare IT Challenge*)\
 ✅ Wstęp do testowania oprogramowania (*Udemy*)\
@@ -46,7 +46,7 @@ Uważam, że regularne ćwiczenia fizyczne wpływają pozytywnie na moje samopoc
 ✅ Python 3 od Podstaw do Eksperta (*Udemy*)\
 ✅ HTML/CSS maraton (*GoIT*)
 
-## Blogi i Newslettery :clipboard:
+## :clipboard: Blogi i Newslettery 
 
 ✅ Medium Daily Digest\
 ✅ Bartosz Kita - Akademia QA\
@@ -54,10 +54,10 @@ Uważam, że regularne ćwiczenia fizyczne wpływają pozytywnie na moje samopoc
 ✅ Fabryka Testów - ciekawostki dla testerów\
 ✅ Dawid Dylowicz - Software Testing Weekly\
 ✅ Kacper Sieradziński - Python od podstaw\
-✅ Ela Sadel Testelka\
+✅ Ela Sądel Testelka\
 ✅ CanTestIT
 
-## Moje projekty :rocket:
+## :rocket: Moje projekty 
 
 - Przypadki testowe dla strony [Scouts Panel](https://scouts.futbolkolektyw.pl/en)\
  :arrow_forward: [Przypadki testowe](https://drive.google.com/drive/u/1/folders/12hQqeokJdSm8Ql3apCYTgB7WJDWz-Yzp)
@@ -68,7 +68,7 @@ Uważam, że regularne ćwiczenia fizyczne wpływają pozytywnie na moje samopoc
 - Repozytorium - testy automatyczne za pomocą Robot Framework\
  :arrow_forward: [Testy Robot Framework](https://github.com/JoannaJB/challenge_robotframework_Joanna)
  
- ## Kontakt :mailbox:
+ ## :mailbox: Kontakt 
  
- :handshake: Zapraszam na mój profil na [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joanna-b%C5%82aszczyk/), aby pozostać w kontakcie i współpracować przy przyszłych projektach!
- 
+ :handshake: Zapraszam na mój profil na [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joanna-b%C5%82aszczyk/), aby pozostać w kontakcie i współpracować przy przyszłych projektach!\
+ :handshake: Mój ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) to joanna.blaszczyk17@gmail.com
