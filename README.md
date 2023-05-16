@@ -59,6 +59,7 @@ Uważam, że regularne ćwiczenia fizyczne wpływają pozytywnie na moje samopoc
 
 ## :rocket: Moje projekty 
 
+OPIS PROJEKTU: Aplikacja “Scouts Panel” jest aplikacją umożliwiającą zbieranie informacji o zawodnikach piłkarskich. Dzięki aplikacji w jednym miejscu zbierane są najważniejsze dane takie jak aktualny klub piłkarza, dane teleadresowe, informacje o meczach.
 - Przypadki testowe dla strony [Scouts Panel](https://scouts.futbolkolektyw.pl/en)\
  :arrow_forward: [Przypadki testowe](https://drive.google.com/drive/u/1/folders/12hQqeokJdSm8Ql3apCYTgB7WJDWz-Yzp)
 - Raport z testów dla strony [Scouts Panel](https://scouts.futbolkolektyw.pl/en)\
